@@ -12,9 +12,12 @@ Visualization: PowerBI, Tableau
 
 📚 Projects: \
 
-Guided: \
-[Link to my_file.pdf](https://github.com/dkdomkris/PortfolioProjects/blob/main/COVID_portfolio.sql)
-[Link to my_file.pdf](https://github.com/dkdomkris/PortfolioProjects/blob/main/PortfolioProjectDataCleaning.sql)
-[Link to my_file.pdf](https://www.example.com/my_file.pdf)
-Unguided: \
-[Link to my_file.pdf](https://www.example.com/my_file.pdf)
+Guided projects: \
+SQL: \
+[Using SQL to Track the Evolution of COVID-19](https://github.com/dkdomkris/PortfolioProjects/blob/main/COVID_portfolio.sql) \
+[Data Cleaning with SQL: A Practical Approach](https://github.com/dkdomkris/PortfolioProjects/blob/main/PortfolioProjectDataCleaning.sql) \
+Tableau: \
+[Tableau Portfolio: A Showcase of My Data Visualization Skills]([https://www.example.com/my_file.pdf](https://public.tableau.com/app/profile/dominik.kristof)) \
+Unguided projects: \
+Python: \
+[Unveiling the Trajectory: Analyzing JPMorgan Chase & Co. Stock Performance and Trend](https://github.com/dkdomkris/private/blob/main/Python_JPM.ipynb) \
