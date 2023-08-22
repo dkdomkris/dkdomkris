@@ -24,5 +24,5 @@ Python: \
 
 Visualizations: \
 Tableau: \
-[Tableau Portfolio: A Showcase of My Data Visualization Skills]([https://www.example.com/my_file.pdf](https://public.tableau.com/app/profile/dominik.kristof)) 
+[Tableau Portfolio: A Showcase of My Data Visualization Skills](https://public.tableau.com/app/profile/dominik.kristof) 
 
