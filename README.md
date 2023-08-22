@@ -10,13 +10,13 @@ Additionally, I excel in data analysis and reporting with Google Sheets and Exce
 Language: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) \
 Visualization: PowerBI, Tableau
 
-📚 Projects: \
+📚 Projects: 
 
 Guided projects: \
 SQL: \
 [Using SQL to Track the Evolution of COVID-19](https://github.com/dkdomkris/PortfolioProjects/blob/main/COVID_portfolio.sql) \
 [Data Cleaning with SQL: A Practical Approach](https://github.com/dkdomkris/PortfolioProjects/blob/main/PortfolioProjectDataCleaning.sql) \
-\
+
 
 Unguided projects: \
 Python: \
@@ -25,4 +25,4 @@ Python: \
 Visualizations: \
 Tableau: \
 [Tableau Portfolio: A Showcase of My Data Visualization Skills]([https://www.example.com/my_file.pdf](https://public.tableau.com/app/profile/dominik.kristof)) \
-\
+
