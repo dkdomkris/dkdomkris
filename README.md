@@ -16,8 +16,13 @@ Guided projects: \
 SQL: \
 [Using SQL to Track the Evolution of COVID-19](https://github.com/dkdomkris/PortfolioProjects/blob/main/COVID_portfolio.sql) \
 [Data Cleaning with SQL: A Practical Approach](https://github.com/dkdomkris/PortfolioProjects/blob/main/PortfolioProjectDataCleaning.sql) \
-Tableau: \
-[Tableau Portfolio: A Showcase of My Data Visualization Skills]([https://www.example.com/my_file.pdf](https://public.tableau.com/app/profile/dominik.kristof)) \
+\
+
 Unguided projects: \
 Python: \
-[Unveiling the Trajectory: Analyzing JPMorgan Chase & Co. Stock Performance and Trend](https://github.com/dkdomkris/private/blob/main/Python_JPM.ipynb) \
+[Unveiling the Trajectory: Analyzing JPMorgan Chase & Co. Stock Performance and Trend](https://github.com/dkdomkris/PortfolioProjects/blob/main/Python_JPM.ipynb) \
+
+Visualizations: \
+Tableau: \
+[Tableau Portfolio: A Showcase of My Data Visualization Skills]([https://www.example.com/my_file.pdf](https://public.tableau.com/app/profile/dominik.kristof)) \
+\
